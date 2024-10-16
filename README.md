@@ -32,7 +32,7 @@ product           5984
 
 
 
-##### hazard-category	
+### hazard-category	
 
 biological  	                  2020
 
@@ -56,7 +56,7 @@ migration	                      13
 
 
 
-##### product-category
+### product-category
 
 meat, egg and dairy products	                      1687
 
@@ -104,7 +104,7 @@ sugars and syrups	                                  5
 
 
 
-##### hazard	
+### hazard	
 
 salmonella	              751
 
@@ -132,7 +132,7 @@ disinfectant/sanitizer	  1
 
 
 
-##### product
+### product
 
 ice cream	              191
 
